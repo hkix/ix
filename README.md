@@ -1,2 +1,2 @@
 # ix
-Internet
+rm
